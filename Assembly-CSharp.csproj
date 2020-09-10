@@ -57,6 +57,7 @@
   <ItemGroup>
     <Compile Include="Assets\Spin.cs" />
     <Compile Include="Assets\MouseLook.cs" />
+    <Compile Include="Assets\FPSInput.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
